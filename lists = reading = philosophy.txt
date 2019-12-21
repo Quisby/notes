@@ -1,0 +1,13 @@
+lists = reading = philosophy
+
+PHILOSOPHY:
+    - Critique of Pure Reason
+    - Kojeve
+    - Montaigne Letters
+    - Hume
+    - Kierkegaard
+    - Wittgenstein
+
+History of Philosophy:
+    - Copleston - History of Western Philosophy
+    - Guthrie - History of Greek Philosophy
