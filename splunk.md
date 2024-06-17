@@ -11,7 +11,6 @@ v. 2024-06-16
 - [regex101](https://regex101.com/) website is super useful
 - [crontab guru](https://crontab.guru/) is super useful for cron schedule expressions
 - [whois.domaintools.com](https://whois.domaintools.com/) is super useful
-- [Quizlet decks for Core Certified User](https://quizlet.com/user/Alejandro_Lopez873/sets)
 
 ## Splunk Core Certified User
 
